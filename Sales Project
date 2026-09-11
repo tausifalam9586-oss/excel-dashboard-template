@@ -1,0 +1,14 @@
+### E-Commerce Sales Analysis Dashboard — Microsoft Excel
+
+# data set used 
+-<a href="https://github.com/tausifalam9586-oss/excel-dashboard-template/commit/a052c94cf3acd5edb3d2e2a1cf50fbcdcd2a8e02)
+dashboard
+-<a href="https://github.com/tausifalam9586-oss/excel-dashboard-template/blob/main/image.png" dashboard view
+Developed an interactive **E-Commerce Sales Analysis Dashboard** using Microsoft Excel to analyze and visualize business sales performance and customer purchasing behavior. The project focuses on converting raw sales data into meaningful business insights through **data cleaning, PivotTables, PivotCharts, Excel formulas, and interactive visualizations**.
+
+The analysis covers **total sales revenue, total orders, quantity sold, purchase/cost analysis, returned orders, return rate, product performance, category-wise sales, month-wise sales trends, state-wise sales performance, and gender-wise shopping behavior**. It also identifies the **best-selling products, highest-performing months, top-performing states, and customer segments contributing the most to sales**.
+
+The dashboard provides a clear overview of overall business performance and helps understand **which products sell the most, when sales are highest, where customers are located, how returns affect the business, and which customer groups contribute most to revenue**.
+
+**Tools & Skills Used:**
+Microsoft Excel • Data Cleaning • Excel Formulas • PivotTables • PivotCharts • Data Analysis • Data Visualization • Dashboard Creation • Business Insights
